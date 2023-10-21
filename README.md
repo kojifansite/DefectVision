@@ -2,7 +2,7 @@
 # DefectVision - платформа для классификации дефектов на изображениях фигурки Иноске. 
 React.js + FastAPI + TensorFlow
 
-[screenshot](https://github.com/kojifansite/DefectVision/blob/main/Снимок%20экрана%20(32).png)
+![screenshot](https://github.com/kojifansite/DefectVision/blob/main/Снимок%20экрана%20(32).png)
 ## 📝 Основной стек:
 - Frontend: React.js
 - Backend: FastAPI
