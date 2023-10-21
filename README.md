@@ -1,5 +1,5 @@
 ## "место для ссылки"
-# DefectVision - платформа для классификации дефектов на изображениях фигурки Иноске. 
+# DefectVision - сервис для обнаружения дефектов на фигурках Иноске. 
 React.js + FastAPI + TensorFlow
 
 ![screenshot](https://github.com/kojifansite/DefectVision/blob/main/Снимок%20экрана%20(32).png)
